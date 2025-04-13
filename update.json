@@ -1,4 +1,5 @@
 {
-    "version": 1.01,
-    "update": "https://raw.githubusercontent.com/ricaun/ESP8266httpUpdateTest/main/update_1.01.bin"
+  "version": "v1.0.5",
+  "build_date": "2025-04-12",
+  "changelog": "• Performans iyileştirmeleri\n• Işık hassasiyeti düzeltildi"
 }
