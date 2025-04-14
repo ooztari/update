@@ -1,5 +1,6 @@
 {
   "version": "v1.0.5",
   "build_date": "2025-04-12",
-  "changelog": "• Performans iyileştirmeleri\n• Işık hassasiyeti düzeltildi"
+  "bin_url": "https://raw.githubusercontent.com/ooztari/update/main/firmware_v1.0.5.bin",
+  "changelog": "• Stabilite iyileştirildi\n• Işık hassasiyeti düzeltildi"
 }
